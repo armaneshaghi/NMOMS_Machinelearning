@@ -1,4 +1,4 @@
-NMOMS_Machinelearning
+Integrating multiple MRI modalities for an automatic differential diagnosis between multiple sclerosis and neuromyelitis optica
 =====================
 
 This repository provides code and data on one our work on automatic differential diagnosis between MS and NMO.
